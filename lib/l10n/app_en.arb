@@ -1,0 +1,21 @@
+{
+"add_task":"Add New Task",
+"title_task":"Enter title task",
+"description":"Enter description task",
+"select_Task":"Select time",
+"add":"Add",
+"theming":"Theming",
+"dark":"Dark",
+"light":"Light",
+"list":"List",
+"settings":"Settings",
+"todo":"TODo List",
+"enter_title":"Enter the title",
+"enter_desc":"Enter the description",
+"language":"Language",
+"english":"English",
+"arabic":"Arabic"
+
+
+
+}
